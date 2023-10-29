@@ -71,3 +71,7 @@
 |         description          |         description          |       |
 |          confident           |          confident           |       |
 |            poster            |            poster            |       |
+
+# Day2
+
+<img src = "/home/kai/Documents/00AStudy/学习/typora/00A inbox/Pic/Miku/2.png">

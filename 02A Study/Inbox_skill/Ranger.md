@@ -1,5 +1,5 @@
 # Ranger是什么
-zsh:1: unknown file attribute: h
+Ranger是一个终端下的文件管理器
 ![](https://cdn.jsdelivr.net/gh/YuanJieSaMa/personal-photo-house/img/202310021544114.png)
 
 其默认操作和Vim的默认操作基本一致.
@@ -10,16 +10,16 @@ zsh:1: unknown file attribute: h
 
 1. 你可以在ranger内选择打开一种文件的方式，通过字母*r* :
 2. ![](https://cdn.jsdelivr.net/gh/YuanJieSaMa/personal-photo-house/img/202310021623951.png)
-  然后可以根据编号选择.
+    然后可以根据编号选择.
 3. Ranger支持通过[]来上下移动**父文件夹**  
 4. *H*和*L*分别可以**退回历史记录** 和 **撤回退回操作** 
 5. 同样支持通过设置快捷键来**指定跳转的文件夹**，例如：通过{key}跳转到Study文件夹....
 6. 通过<C-h>或者*zh* 显示或隐藏**隐藏文件** 
 7. *O*可以自由选择更改排序方式：
-  ![](https://cdn.jsdelivr.net/gh/YuanJieSaMa/personal-photo-house/img/202310021640789.png)
+    ![](https://cdn.jsdelivr.net/gh/YuanJieSaMa/personal-photo-house/img/202310021640789.png)
 8. */* 可以用来在当前文件夹中**搜索** :
-  ![](https://cdn.jsdelivr.net/gh/YuanJieSaMa/personal-photo-house/img/202310021703068.png)
-  使用*n* 和*N* 来查找下一个和返回上一个
+    ![](https://cdn.jsdelivr.net/gh/YuanJieSaMa/personal-photo-house/img/202310021703068.png)
+    使用*n* 和*N* 来查找下一个和返回上一个
 9. 从该文件夹进入终端为*S* 
 10. ranger有**fzf** 的支持，可以在fzf中找文件，再通过ranger打开，具体操作在后
 11. ranger支持**直接复制文件路径** 通过*yp*,不过ranger内置了剪切板，具体操作在后
