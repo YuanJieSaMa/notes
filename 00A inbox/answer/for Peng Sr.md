@@ -46,3 +46,23 @@ $$
 \therefore h(x)为增函数\\
 将下列选项带入h(x)中，判断是否为（1,+\infty)的增函数
 $$
+
+
+
+
+# 基本不等式
+
+## 9.A
+
+$$
+\frac{y}{x}+\frac{3}{y}=\frac{y}{x}+\frac{x+2y}{y}=\frac{y}{x}+\frac{x}{y}+2\\
+\therefore \frac{y}{x}+\frac{3}{y}_{min}=4
+$$
+
+# 物质的量
+
+## 2
+
+A.摩尔质量单位是g/mol或者….错误
+
+B.
